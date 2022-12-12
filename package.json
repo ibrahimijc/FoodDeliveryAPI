@@ -16,7 +16,7 @@
     "authy": "^1.4.0",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.7",
     "nodemon": "^2.0.3",
